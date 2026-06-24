@@ -899,7 +899,7 @@ class SetupOverlay(QWidget):
                                align=Qt.AlignmentFlag.AlignLeft))
         self._key_input = QLineEdit()
         self._key_input.setEchoMode(QLineEdit.EchoMode.Password)
-        self._key_input.setPlaceholderText("AIza…")
+        self._key_input.setPlaceholderText("Enter Gemini API Key...")
         self._key_input.setFont(QFont("Courier New", 10))
         self._key_input.setFixedHeight(32)
         self._key_input.setStyleSheet(f"""
@@ -1218,7 +1218,7 @@ class MainWindow(QMainWindow):
 
     def __init__(self, face_path: str):
         super().__init__()
-        self.setWindowTitle("J.A.R.V.I.S — MARK XLVI")
+        self.setWindowTitle("© Alinshan — JARVIS-X")
         self.setMinimumSize(_MIN_W, _MIN_H)
         self.resize(_DEFAULT_W, _DEFAULT_H)
 
@@ -1372,7 +1372,7 @@ class MainWindow(QMainWindow):
             l.setStyleSheet(f"color: {color}; background: transparent;")
             return l
 
-        lay.addWidget(_badge("MARK XLVI", C.PRI_DIM))
+        lay.addWidget(_badge("JARVIS-X", C.PRI_DIM))
         lay.addStretch()
 
         mid = QVBoxLayout(); mid.setSpacing(1)
@@ -1602,7 +1602,7 @@ class MainWindow(QMainWindow):
 
         lay.addWidget(_fl("[F4] Mute  ·  [F11] Fullscreen"))
         lay.addStretch()
-        lay.addWidget(_fl("FatihMakes Industries  ·  MARK XLVI  ·  CLASSIFIED"))
+        lay.addWidget(_fl("© Alinshan  ·  JARVIS-X  ·  CLASSIFIED"))
         lay.addStretch()
         lay.addWidget(_fl("© STARK INDUSTRIES", C.PRI_DIM))
         return w

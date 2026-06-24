@@ -1,84 +1,115 @@
-# 🤖 MARK XLVI (46)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
+<div align="center">
+  <img src="assets/logo.png" alt="JARVIS-X Logo" width="250"/>
 
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/watch?v=BhOsnGC_sAA)**
+  # ⚡ JARVIS-X
+  **The Ultimate AI-Driven Local Agent Built for Power Users**
 
-A real-time voice AI that can hear, see, understand, and control your computer — on any OS. Supporting Windows, macOS, and Linux. Built with Gemini integration for maximum stability and performance, delivering zero subscriptions and total digital autonomy.
+  <p>
+    <a href="https://github.com/Alinshan/JARVIS-X/stargazers"><img src="https://img.shields.io/github/stars/Alinshan/JARVIS-X?style=for-the-badge&color=00e5ff" alt="StarsBadge"/></a>
+    <a href="https://github.com/Alinshan/JARVIS-X/network/members"><img src="https://img.shields.io/github/forks/Alinshan/JARVIS-X?style=for-the-badge&color=00e5ff" alt="ForksBadge"/></a>
+    <a href="https://github.com/Alinshan/JARVIS-X/issues"><img src="https://img.shields.io/github/issues/Alinshan/JARVIS-X?style=for-the-badge&color=00e5ff" alt="IssuesBadge"/></a>
+    <a href="https://github.com/Alinshan/JARVIS-X/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-00e5ff?style=for-the-badge" alt="LicenseBadge"/></a>
+  </p>
+
+  <i>Created with ❤️ by <b>Alinshan</b></i>
+</div>
 
 ---
 
-## ✨ Overview
+## 🌟 Overview
 
-MARK XLVI represents a massive milestone in the Jarvis series, evolving into a fully connected, highly persistent, and remote-accessible system. It completely bridges the gap between your mobile device, desktop OS, and human intent. Through real-time Gemini reasoning, Mark 46 allows you to control your PC from your phone, share large files securely, and maintain deep contextual conversations across sessions.
+**JARVIS-X** is your personal, highly intelligent AI assistant that lives directly on your computer. Leveraging state-of-the-art Large Language Models via the Gemini API, JARVIS-X doesn't just chat—it **does**. From visual screen analysis to fluid voice commands and deep system control, JARVIS-X bridges the gap between your desktop and human intent. 
 
-It's not just an assistant — it's an extension of your digital life.
+Say goodbye to manual clicks and embrace a fully automated, sci-fi digital experience.
 
 ---
 
-## 🚀 Capabilities
+## 🔥 Next-Generation Capabilities
 
-### Core Features
 | Feature | Description |
-|---|---|
-| 🎙️ Real-time Voice | Ultra-low latency conversation in any language |
-| 🖥️ System Control | Launch apps, manage files, execute terminal commands |
-| 🧩 Autonomous Tasks | High-level planning for complex, multi-step goals |
-| 👁️ Visual Awareness | Real-time screen processing and webcam vision |
-| 🧠 Persistent Memory | Deeply remembers your projects, preferences, and personal context |
-| ⌨️ Hybrid Input | Seamlessly switch between keyboard typing and voice commands |
+| :--- | :--- |
+| 📱 **Full Remote Phone Control** | Take command of your entire desktop operating system directly from your smartphone, from anywhere, at any time. |
+| 🧠 **Advanced Long-Term Memory** | Upgraded memory architecture allows JARVIS-X to contextually remember past interactions, preferences, and complex workflows across system reboots. |
+| 🚀 **Powered by Gemini API** | Engineered from the ground up to utilize the full speed and precision of Google's Gemini models for ultimate reasoning and cognitive stability. |
+| ⚡ **Unmatched Performance** | Comprehensive system-wide optimizations deliver incredibly fast response times and rock-solid execution across Windows, macOS, and Linux. |
+| 📂 **Hybrid Input & File Handling** | Fluidly switch between voice and keyboard input. Drag-and-drop code, PDFs, or images for instant analysis and seamless automation. |
+| 🔒 **Secure Mobile File Sharing** | Wirelessly and securely share files or entire folders (up to 500 MB) from your phone directly to your computer with absolute local privacy. |
+| 👁️ **Real-Time Computer Vision** | JARVIS-X actively analyzes your screen to gain full context of your ongoing tasks and visual environment. |
+| 🗣️ **Fluid Voice Interaction** | Converse naturally with ultra-low latency speech recognition and fluid conversational logic in any language. |
 
 ---
 
-## 🆕 What's New in XLVI
+## 🚀 Getting Started
 
-- 📱 **Full Remote Phone Control** — Take command of your entire desktop operating system directly from your smartphone, anywhere, anytime.
-- 🧠 **Advanced Long-Term Memory** — Upgraded memory architecture allows Jarvis to contextually remember past interactions, preferences, and complex workflows across reboots.
-- 🚀 **Powered by Gemini Integration** — Re-engineered from the ground up to utilize the full speed and precision of the Google Gemini API for ultimate reasoning and stability.
-- ⚡ **Next-Gen Performance & Stability** — Comprehensive system-wide optimizations delivering faster response times and rock-solid execution on Windows, Mac, and Linux.
-- 📂 **Advanced File Handling & Hybrid Input** — Fluidly switch between voice or keyboard input, and drag-and-drop code, PDFs, or images for instant analysis and automation.
-- 🔒 **Secure Mobile File Sharing** — Wirelessly and securely share files or entire folders up to 500 MB from your phone directly to your computer with complete privacy.
+It takes only a few minutes to bring JARVIS-X to life. No hidden subscriptions, no data harvesting—your data stays entirely with you.
 
----
+### 📋 Prerequisites
 
-## ⚡ Quick Start
-
-```bash
-git clone [https://github.com/FatihMakes/Mark-XLVI.git](https://github.com/FatihMakes/Mark-XLVI.git)
-cd Mark-XLVI
-pip install -r requirements.txt
-playwright install
-python main.py
-
-```
-
-> ⚠️ **Installation Note:** To keep the repository lightweight, some OS-specific dependencies are not bundled in `requirements.txt`. If you run into a `ModuleNotFoundError`, simply install the missing package via `pip install <module_name>` for your specific system.
-
----
-
-## 📋 Requirements
-
-| Requirement | Details |
-| --- | --- |
+| Requirement | Specification |
+| :--- | :--- |
 | **OS** | Windows 10/11, macOS, or Linux |
 | **Python** | 3.11 or 3.12 |
-| **Microphone** | Required for voice interaction |
-| **API Key** | Free Gemini API key |
+| **Hardware** | Microphone (Required for voice) |
+| **API Key** | Free [Google Gemini API Key](https://aistudio.google.com/app/apikey) |
+
+### 🛠️ Step-by-Step Installation Guide (For Beginners)
+
+Follow these simple steps to get JARVIS-X running on your computer.
+
+**Step 1: Install Python & Git**
+- **Python:** Download and install [Python 3.11 or 3.12](https://www.python.org/downloads/). *Important: During installation on Windows, make sure to check the box that says "Add Python to PATH".*
+- **Git:** Download and install [Git](https://git-scm.com/downloads) if you don't already have it.
+
+**Step 2: Get Your Free Gemini API Key**
+- Go to Google's [AI Studio](https://aistudio.google.com/app/apikey).
+- Sign in with your Google account and click **Create API Key**.
+- Save this key somewhere safe—you'll need it when you launch JARVIS-X for the first time.
+
+**Step 3: Download JARVIS-X**
+Open your terminal (Command Prompt on Windows, or Terminal on Mac/Linux) and run the following commands:
+```bash
+# Download the project
+git clone https://github.com/Alinshan/JARVIS-X.git
+
+# Enter the project folder
+cd JARVIS-X
+```
+
+**Step 4: Install Required Packages**
+While inside the JARVIS-X folder in your terminal, run:
+```bash
+# Install core Python dependencies
+pip install -r requirements.txt
+
+# Install Playwright browsers (used for web searching)
+playwright install
+```
+> 💡 **Troubleshooting:** If you get a `ModuleNotFoundError` for `PyQt6` when launching, simply run `pip install PyQt6` to install the graphical interface library manually.
+
+**Step 5: Launch JARVIS-X!**
+```bash
+python main.py
+```
+*On first launch, JARVIS-X will ask for your Gemini API key. Paste the key you got in Step 2, and you are ready to command your AI!*
 
 ---
 
-## ⚠️ License
+## 🔒 Privacy & Security First
 
-Personal and non-commercial use only.
-Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
+**Your Data. Your Rules.**  
+JARVIS-X uses your own API keys, guaranteeing zero middleman telemetry. Furthermore, the remote mobile dashboard operates exclusively over your local Wi-Fi, ensuring absolute security and isolation from the outside web.
 
 ---
 
-## 👤 Connect with the Creator
+## 📜 License
 
-Engineered by a developer building a real-world JARVIS-style assistant.
-⭐ **Star the repository to support the journey to Mark 100.**
+This software is released under the **[MIT License](https://opensource.org/licenses/MIT)**. You are completely free to modify, distribute, and use it for any purpose.
 
-| Platform | Link |
-| --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+---
+
+<div align="center">
+  <b>Engineered by <a href="https://github.com/Alinshan">Alinshan</a></b><br>
+
+  
+  <i>Support the development of JARVIS-X by giving it a ⭐ on GitHub!</i>
+</div>
